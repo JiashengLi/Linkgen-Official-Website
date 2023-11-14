@@ -1,0 +1,401 @@
+14:21 2021/12/27
+
+              
+              
+            </div>
+<div>
+            <div class="img-box col-md-6" style="margin:0 auto;max-width: 90%;margin:0 auto;text-align: center;">
+              <img src=" images/linkgenBg1.jpg" alt="" style="border-radius: 15px;">
+            </div>
+            <p id="company-content" class=" col-md-6" style="padding-top: 5px;">
+            </p>
+      </div>
+
+
+
+
+<section id="newsSection" class="client_section layout_padding">
+      <div class="container">
+        <div class="heading_container">
+          <h2>
+            最新新闻
+          </h2>
+        </div>
+      </div>
+      <div id="customCarousel3" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="box">
+                <div class="client_info">
+                  <div class="client_name">
+                    <h4>
+                      磁珠替代氯仿，核酸提取告别毒害污染，省时又省力
+                    </h4>
+                    <h6>
+                      2021.07.09      作者：林佳欣
+                    </h6>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  1979年，John Ugelstad教授和他的同事发明出一种生产大小一致的多聚体微球技术。
+                  1989年，McCormick建立了一种用酚化的二氧化硅吸附去除蛋白质的基因组DNA提取方法。它与经典的酚-氯仿提取法相类似，即用酚化的二氧化硅酚代替酚，这是最早出现的固相吸附提取方法..
+                  <a class="news-seeMore" href="https://www.allgenbio.com/blogs/news/%E7%A3%81%E7%8F%A0%E6%9B%BF%E4%BB%A3%E6%B0%AF%E4%BB%BF-%E6%A0%B8%E9%85%B8%E6%8F%90%E5%8F%96%E5%91%8A%E5%88%AB%E6%AF%92%E5%AE%B3%E6%B1%A1%E6%9F%93-%E7%9C%81%E6%97%B6%E5%8F%88%E7%9C%81%E5%8A%9B">
+                    ...→查看更多</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="box">
+                <div class="client_info">
+                  <div class="client_name">
+                    <h4>
+                      外泌体，被错认的细胞“垃圾袋”
+                    </h4>
+                    <h6>
+                    
+                    </h6>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  1987 年，Johnstone 等在研究网织红细胞的发育时，从其培养上清液中分离纯化了一种囊泡状物质，并命名为外泌体 (exosomes)，它来自于多泡体(multivesicular body, MVB)，是多泡体限制性膜与细胞质膜融合而释放的脂质双层膜囊泡，直径约30~100 nm，电子显微镜下外泌体呈独特的杯状结构。
+                  在被发现后的相当长的一段时间里，外泌体仅仅被当做是细胞向外排出废物的载体。
+                  但随着外泌体内容物逐渐被人们了解，尤其是功能性蛋白、mRNA 及微小RNA (microRNA, miRNA) 的发现，使得外泌体成了最近的研究热点。 
+                  <a class="news-seeMore" href="https://www.allgenbio.com/blogs/news/%E5%A4%96%E6%B3%8C%E4%BD%93-%E8%A2%AB%E9%94%99%E8%AE%A4%E7%9A%84%E7%BB%86%E8%83%9E-%E5%9E%83%E5%9C%BE%E8%A2%8B">
+                    ...→查看更多</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="box">
+                <div class="client_info">
+                  <div class="client_name">
+                    <h4>
+                      一文读懂H3K27me3
+                    </h4>
+                    <h6>
+                      
+                    </h6>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  组蛋白甲基化是一种重要的表观遗传修饰，参与基因的表达调控、基因印记和X染色体失活，调节胚胎发育、细胞增生和分化，与细胞衰老以及肿瘤发生发展有着密切关系。
+                  表观遗传是在基因的DNA序列不发生变化的条件下，基因功能发生可遗传的变化，其发生机制主要包括DNA甲基化、组蛋白修饰、非编码RNA调控、染色质结构重构。 
+                <a class="news-seeMore" href="https://www.allgenbio.com/blogs/news/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82h3k27me3">
+                  ...→查看更多
+                </a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#customCarousel3" role="button" data-slide="prev">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#customCarousel3" role="button" data-slide="next">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section> -->
+
+    <!-- <section class="contact_section layout_padding-bottom">
+
+      <div class="container">
+        <div class="heading_container">
+          <h2>
+            联系我们
+          </h2>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="form_container">
+              <form action="">
+                <div>
+                  <input type="text" placeholder="名字" />
+                </div>
+                <div>
+                  <input type="text" placeholder="联系方式" />
+                </div>
+                <div>
+                  <input type="email" placeholder="邮箱" />
+                </div>
+                <div>
+                  <input type="text" class="message-box" placeholder="Message" />
+                </div>
+                <div class="btn_box">
+                  <button>
+                    提交
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="map_container">
+              <div id="googleMap"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+删掉的栅格化优势代码
+
+
+<div class="row" style="height: 50%;">
+
+                          <div class="col-md-6 col-lg-6 col-sm-6 advCol" id="about-adv-section1">
+                              <div class="row" style="height: 100%;width:100%;margin:0">
+
+                                  <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol" style="background-color: gray;">
+
+                                    <div class="about-adv-imgbox">
+                                        <img src="images/93402018_p0.jpg">
+                                    </div>
+
+                                  </div>
+
+                                  <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol">
+                                      <p>"核心技术团队、管理团队、顾问团队均毕业于国内外著名高校，涵盖了药物化学、有机化学、生物化学、分子和细胞生物学、统计和大数据科学等多个领域。公司融资和商务运营团队具有多年投资经历并连续创业成功。公司一直致力于为员工提供优良的工作和学习环境，充分激发员工的个人创造力和开拓精神，实现公司和员工的共同成长和发展。"</p>
+                                  </div>
+                              
+                              </div>
+                              
+
+                          </div>
+                          <div class="col-md-6 col-lg-6 col-sm-6 advCol" id="about-adv-section2">
+
+                              <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol" style="background-color: gray;">
+
+                                <div class="about-adv-imgbox">
+                                  <img src="zipImg/linkgenBg1.jpg">
+                                </div>
+
+                              </div>
+
+                              <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol">
+                                
+                              </div>
+
+                          </div>
+
+                        </div>
+<div class="row" style="height: 50%;">
+                          <div class="col-md-6 col-lg-6 col-sm-6 advCol" id="about-adv-section3">
+
+                            <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol" style="background-color: gray;">
+                                <div class="about-adv-imgbox">
+                                  <img src="zipImg/linkgenBg2.jpg">
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol">
+                              
+                            </div>
+
+                          </div>
+
+                          <div class="col-md-6 col-lg-6 col-sm-6 advCol" id="about-adv-section4">
+                            <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol" style="background-color: gray;">
+
+                                  <div class="about-adv-imgbox">
+                                      <img src="zipImg/linkgenBg3.jpg">
+                                  </div>
+
+                            </div>
+                            <div class="col-md-6 col-lg-6 col-sm-6 advInnerCol">
+                              
+                            </div>
+                          </div>
+                        </div>
+
+
+
+
+
+
+
+招聘的折叠栏
+
+<div class="panel-group" id="accordion">
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion" 
+                              href="#collapseOne" id="recruit-collapse1">
+                              有机合成高级研究员
+                              </a>
+                          </h4>
+                      </div>
+                      <div id="collapseOne" class="panel-collapse collapse in">
+                          <div class="panel-body">
+                              <h2>工作职责:</h2>
+                              <p>1、	制定并执行项目规划，及时记录各种工作要素，及时汇报项目进展； <br>
+                                2、	能够对化合物的合成路线有自己的想法，并提出建议；<br>
+                                3、	能够熟练地根据文献完成化学反应，并对结果做出较全面的分析；  <br>
+                                4、	解决实验中出现的大部分问题，对于不能解决的问题及时汇报并讨论解决； <br>
+                                5、	项目完成后完成项目报告初稿的撰写工作。<br>
+                              </p>
+                              <br>
+                              <h2>任职资格： </h2>
+                              <p>1、	有机化学或药物化学专业，3年工作经验硕士或5年工作经验本科；<br>
+                                2、	具有较扎实的有机化学理论知识，熟悉较多的有机反应，实验操作熟练；<br>
+                                3、	能熟练阅读专业英文文献，解析核磁图谱；<br>
+                                4、	有实验室安全意识，有良好团队合作和创新精神；<br>
+                                <br>
+                                简历后请附上以往的合成工作总结
+                                </p>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion" 
+                              href="#collapseTwo" id="recruit-collapse2">
+                              分子生物实验员
+                          </a>
+                          </h4>
+                      </div>
+                      <div id="collapseTwo" class="panel-collapse collapse">
+                          <div class="panel-body">
+                                <h2>岗位职责:</h2>
+                                <p>1、进行分子生物学实验操作，执行并优化现有技术流程； <br>
+                                  2、根据项目需求，执行DNA提取，文库制备，文库质控等； <br>
+                                  3、准备mRNA及基因组DNA下一代测序样本库； <br>
+                                  4、负责技术问题的发现，反馈以及研究解决； <br>
+                                  5、实验室器材日常维护； <br>
+                                  6、服从领导安排的其他各项工作 <br>
+                                  <br>
+                                </p>
+                                <br>
+                                <h2>任职资格： </h2>
+                                <p>1、1年工作经验硕士或1-3年工作经验本科； <br>
+                                  2、具有较扎实的分子生物理论知识，实验操作熟练； <br>
+                                  3、能熟练阅读专业英文文献； <br>
+                                  4、有实验室安全意识，有良好团队合作和创新精神； <br>
+                                  </p>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion" 
+                              href="#collapseThree" id="recruit-collapse3">
+                              产品专员
+                              </a>
+                          </h4>
+                      </div>
+                      <div id="collapseThree" class="panel-collapse collapse">
+                          <div class="panel-body">
+                                <h2>岗位职责:</h2>
+                                <p>1、负责产品线市场信息的收集和梳理； <br>
+                                  2、负责竞品调研分析及调研文件的编写； <br>
+                                  3、负责产品文档资料的编写； <br>
+                                  4、协助产品总监完成产品开发及项目申报； <br>
+                                  5、完成上级领导交代的其他临时性工作。 <br>
+                                </p>
+                                <br>
+                                <h2>任职资格： </h2>
+                                <p>1、生物相关专业本科学历，分子生物学、细胞生物学、遗传学、免疫学专业优先； <br>
+                                  2、逻辑思维清晰，工作积极主动，认真细致，严谨踏实。 <br>
+                                  3、有信息收集或市场调研经验者优先； <br>
+                                  4、能够熟练使用WORD，EXCEL，PPT等办公软件； <br>
+                                  5、英语水平良好，能够阅读生物相关的英文文献； <br>
+                                  6、性格开朗，具有良好的人际交往能力、沟通能力和执行力； <br>
+                                  
+                                  </p>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" 
+                            href="#collapsefour" id="recruit-collapse4">
+                            渠道经理 
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapsefour" class="panel-collapse collapse">
+                        <div class="panel-body">
+                              <h2>工作职责:</h2>
+                              <p>1、参加所有和销售相关的活动，完成销售目标； <br>
+                                2、保持与经销商的联系，跟踪他们的需求和订单，同时发展和促进与潜在客户的联系，以捕捉商业机会； <br>
+                                3、根据需要，拜访相关人员，向客户推广产品，不断提高产品市场份额； <br>
+                                4、充分了解市场状态，及时向上级主管反映竞争对手的情况及市场动态、提出合理化建议； <br>
+                                5、及时收集并反馈客户信息和市场情况。
+                              </p>
+                              <br>
+                              <h2>任职资格： </h2>
+                              <p>1、工作积极主动，做事认真负责，善于学习总结。 <br>
+                                2、专科及以上学历，生物、化学、医学专业及有相关工作经验者优先，医药学及其他相关专业亦可。 <br>
+                                3、有团队精神、责任心强。 <br>
+                                4、熟练使用办公软件。 <br>
+                                
+                                </p>
+                        </div>
+                    </div>
+                  </div>
+
+
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" 
+                            href="#collapseFive" id="recruit-collapse5">
+                            渠道经理
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseFive" class="panel-collapse collapse">
+                        <div class="panel-body">
+                              <h2>工作职责:</h2>
+                              <p>1、	制定并执行项目规划，及时记录各种工作要素，及时汇报项目进展； <br>
+                                2、	能够对化合物的合成路线有自己的想法，并提出建议；<br>
+                                3、	能够熟练地根据文献完成化学反应，并对结果做出较全面的分析；  <br>
+                                4、	解决实验中出现的大部分问题，对于不能解决的问题及时汇报并讨论解决； <br>
+                                5、	项目完成后完成项目报告初稿的撰写工作。<br>
+                              </p>
+                              <br>
+                              <h2>任职资格： </h2>
+                              <p>1、	有机化学或药物化学专业，3年工作经验硕士或5年工作经验本科；<br>
+                                2、	具有较扎实的有机化学理论知识，熟悉较多的有机反应，实验操作熟练；<br>
+                                3、	能熟练阅读专业英文文献，解析核磁图谱；<br>
+                                4、	有实验室安全意识，有良好团队合作和创新精神；<br>
+                                <br>
+                                简历后请附上以往的合成工作总结
+                                </p>
+                        </div>
+                    </div>
+                </div>

@@ -1,0 +1,44 @@
+#######################网站内容#############################
+COMMENT ON COLUMN sxchem.chemistry_adv.rid IS 'record id';
+COMMENT ON COLUMN sxchem.chemistry_adv.title_ch IS '中文标题';
+COMMENT ON COLUMN sxchem.chemistry_adv.title_en IS '英文标题';
+COMMENT ON COLUMN sxchem.chemistry_adv.content_ch IS '中文内容';
+COMMENT ON COLUMN sxchem.chemistry_adv.content_en IS '英文内容';
+COMMENT ON COLUMN sxchem.chemistry_adv.adv_no IS '标号';
+COMMENT ON COLUMN sxchem.chemistry_adv.img_route IS '图片路径';
+COMMENT ON COLUMN sxchem.chemistry_adv.create_author IS '创建者';
+COMMENT ON COLUMN sxchem.chemistry_adv.update_author IS '更新者';
+COMMENT ON COLUMN sxchem.chemistry_adv.create_time IS '记录创建时间';
+COMMENT ON COLUMN sxchem.chemistry_adv.update_time  IS '记录修改时间';
+COMMENT ON COLUMN sxchem.chemistry_adv.intro_use  IS '记录是否可用';
+COMMENT ON COLUMN sxchem.chemistry_adv.adv_type IS '类型';
+
+#######################网站信息##############################
+COMMENT ON COLUMN sxchem.chemistry_contact.rid IS 'record id';
+COMMENT ON COLUMN sxchem.chemistry_contact.company_ch IS '公司中文';
+COMMENT ON COLUMN sxchem.chemistry_contact.company_en IS '公司英文';
+COMMENT ON COLUMN sxchem.chemistry_contact.telphone IS '电话';
+COMMENT ON COLUMN sxchem.chemistry_contact.molbiphone IS '手机';
+COMMENT ON COLUMN sxchem.chemistry_contact.email IS '邮箱';
+COMMENT ON COLUMN sxchem.chemistry_contact.address_ch IS '中文地址';
+COMMENT ON COLUMN sxchem.chemistry_contact.address_en IS '英文地址';
+COMMENT ON COLUMN sxchem.chemistry_contact.create_author IS '创建者';
+COMMENT ON COLUMN sxchem.chemistry_contact.update_author IS '更新者';
+COMMENT ON COLUMN sxchem.chemistry_contact.create_time IS '记录创建时间';
+COMMENT ON COLUMN sxchem.chemistry_contact.update_time  IS '记录修改时间';
+COMMENT ON COLUMN sxchem.chemistry_contact.intro_use  IS '记录是否可用';
+
+######################分子式信息##############################
+COMMENT ON COLUMN sxchem.chemistry_pro.rid IS 'record id';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_ch IS '中文名称';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_en IS '英文名称';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_casno IS 'cas号';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_mw IS '分子量';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_formula IS '分子式';
+COMMENT ON COLUMN sxchem.chemistry_pro.pro_catalogno  IS 'catlogno';
+COMMENT ON COLUMN sxchem.chemistry_pro.img_route  IS '图片路径';
+COMMENT ON COLUMN sxchem.chemistry_pro.create_time IS '创建时间';
+COMMENT ON COLUMN sxchem.chemistry_pro.update_time IS '更新时间';
+COMMENT ON COLUMN sxchem.chemistry_pro.create_author IS '创建者';
+COMMENT ON COLUMN sxchem.chemistry_pro.update_author  IS '更新者';
+COMMENT ON COLUMN sxchem.chemistry_pro.intro_use  IS '记录是否可用';
